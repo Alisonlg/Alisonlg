@@ -1,11 +1,11 @@
 
 # Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://i.imgur.com/1Songum.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 Meu nome é Álison, tenho 19 anos, atualmente estou estudando para me tornar um desenvolvedor WEB. Abaixo você pode encontrar meus contatos e as áreas em que tenho conhecimento.
 
 [![Discord Badge](https://img.shields.io/badge/-Álison%233220-738ADB?style=for-the-badge&square&logo=Discord&logoColor=white)](Álison#3464)
-[![Gmail Badge](https://img.shields.io/badge/-alisonlg78511+github@gmail.com-c14438?style=for-the-badge&square&logo=Gmail&logoColor=white&link=mailto:alisonlg78511+github@gmail.com)](mailto:alisonlg78511+github@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alisonlg78511@gmail.com-c14438?style=for-the-badge&square&logo=Gmail&logoColor=white&link=mailto:alisonlg78511+github@gmail.com)](mailto:alisonlg78511+github@gmail.com)
 
 ## ⚡ *Línguagens e IDE's*
 ![Java](https://img.shields.io/badge/-Java-f55442?style=for-the-badge&logo=CoffeeScript)
