@@ -8,7 +8,7 @@ Meu nome é Álison, tenho 19 anos, atualmente estou estudando para me tornar um
 [![Gmail Badge](https://img.shields.io/badge/-alisonlg78511+github@gmail.com-c14438?style=for-the-badge&square&logo=Gmail&logoColor=white&link=mailto:alisonlg78511+github@gmail.com)](mailto:alisonlg78511+github@gmail.com)
 
 ## ⚡ *Línguagens e IDE's*
-![Java](https://img.shields.io/badge/-Java-f55442?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/-Java-f55442?style=for-the-badge&logo=CoffeeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff) 
