@@ -19,5 +19,6 @@ Meu nome é Álison, tenho 19 anos, atualmente estou estudando para me tornar um
 ![eclipse](https://img.shields.io/badge/-eclipse-26057F?style=for-the-badge&logo=eclipse&logoColor=fff) 
 
 ## 📊 ***Estatísticas***
+![teste](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api?username=Alisonlg&show_icons=true&theme=radical&title_color=fff" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisonlg&show_icons=true&theme=radical" height="180px">
