@@ -20,4 +20,4 @@ Meu nome é Álison, tenho 19 anos, atualmente estou estudando para me tornar um
 
 ## 📊 ***Estatísticas***
 <img src="https://github-readme-stats.vercel.app/api?username=Alisonlg&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=26057F&border_color=15045D&bg_color=080B1F" height="170px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisonlg&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=26057F&border_color=15045D&bg_color=080B1" height="170px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisonlg&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=26057F&border_color=15045D&bg_color=080B1F" height="170px">
