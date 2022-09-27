@@ -4,8 +4,8 @@
 
 Meu nome é Álison, tenho 19 anos, atualmente estou estudando para me tornar um desenvolvedor WEB. Abaixo você pode encontrar meus contatos e as áreas em que tenho conhecimento.
 
-[![Discord Badge](https://img.shields.io/badge/-Álison%233220-738ADB?style=for-the-badge&square&logo=Discord&logoColor=white)](Álison#3464)
-[![Gmail Badge](https://img.shields.io/badge/-alisonlg78511@gmail.com-c14438?style=for-the-badge&square&logo=Gmail&logoColor=white&link=mailto:alisonlg78511+github@gmail.com)](mailto:alisonlg78511+github@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Álison%233220-26057F?style=for-the-badge&square&logo=Discord&logoColor=fff)](Álison#3464)
+[![Gmail Badge](https://img.shields.io/badge/-alisonlg78511@gmail.com-15045D?style=for-the-badge&square&logo=Gmail&logoColor=fff&link=mailto:alisonlg78511+github@gmail.com)](mailto:alisonlg78511+github@gmail.com)
 
 ## ⚡ *Línguagens e IDE's*
 ![Java](https://img.shields.io/badge/-Java-f55442?style=for-the-badge&logo=CoffeeScript)
