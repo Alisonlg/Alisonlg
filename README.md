@@ -6,6 +6,11 @@ Meu nome é Álison, tenho 21 anos, atualmente estou estudando para me tornar um
 
 [![Discord Badge](https://img.shields.io/badge/-Álison%233220-26057F?style=for-the-badge&square&logo=Discord&logoColor=fff)](Álison#3464)
 [![Gmail Badge](https://img.shields.io/badge/-alisonlg78511@gmail.com-15045D?style=for-the-badge&square&logo=Gmail&logoColor=fff&link=mailto:alisonlg78511+github@gmail.com)](mailto:alisonlg78511+github@gmail.com)
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## ⚡ *Línguagens e IDE's*
 ![Java](https://img.shields.io/badge/-Java-26057F?style=for-the-badge&logo=CoffeeScript&logoColor=fff)
