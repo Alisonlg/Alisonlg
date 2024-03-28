@@ -11,6 +11,9 @@ Meu nome é Álison, tenho 21 anos, atualmente estou estudando para me tornar um
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## ⚡ *Línguagens e IDE's*
 ![Java](https://img.shields.io/badge/-Java-26057F?style=for-the-badge&logo=CoffeeScript&logoColor=fff)
