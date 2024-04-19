@@ -19,7 +19,7 @@ Meu nome é Álison, tenho 21 anos, atualmente estou estudando para me tornar um
 ![Java](https://img.shields.io/badge/-Java-26057F?style=for-the-badge&logo=CoffeeScript&logoColor=fff)
 ![Lua](https://img.shields.io/badge/-lua-15045D?style=for-the-badge&logo=lua&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-26057F?style=for-the-badge&logo=JavaScript&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-15045DF?style=for-the-badge&logo=MySQL&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-15045D?style=for-the-badge&logo=MySQL&logoColor=fff)
 ![VSC](https://img.shields.io/badge/-VSC-26057F?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![eclipse](https://img.shields.io/badge/-eclipse-15045D?style=for-the-badge&logo=eclipse&logoColor=fff) 
 
